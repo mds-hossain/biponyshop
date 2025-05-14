@@ -1,0 +1,7 @@
+| Test Objective      | Scope                  | Method                  | Priority |
+| ------------------- | ---------------------- | ----------------------- | -------- |
+| Validate cart flow  | Add/view/remove items  | Manual                  | High     |
+| Product page load   | Product listing        | Automated (Selenium)    | Medium   |
+| Page responsiveness | Mobile and tablet view | Manual                  | High     |
+| Form validation     | Checkout form          | Manual                  | High     |
+| Broken links        | All navigations        | Automated (LinkChecker) | Medium   |
